@@ -1,2 +1,38 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/RPDAFNpj)
-# EA2
+#Exploration Activity 2
+
+
+##Library
+I utilised the **numpy** library in Python
+This is how you implement the library
+**`import numpy`**
+
+
+##Running the program
+My program can be run from the terminal window or command line. 
+
+  1. Open terminal window 
+  2. cd into directory that has python file
+  3. run **`pip install numpy`** in terminal
+  4. run **`python MatrixCalulator.py'** in terminal
+  
+  
+##Purpose
+My program runs different calculations on matrices such as addition, subtraction, scalar multiplication, matrix multiplication, inverse, determinant, power.
+It doe sthese calculation based of matrix calculation defined in linear algebra.
+
+
+##Sample code output
+Addition: ![Screenshot](Addition.png)
+
+Subtraction: ![Screenshot](Subtraction.png)
+
+Scalar: ![Screenshot](Scalar.png)
+
+Multiplication: ![Screenshot](Multiplication.png)
+
+Determinant: ![Screenshot](Determinant.png)
+
+Inverse: ![Screenshot](Inverse.png)
+
+Power: ![Screenshot](Power.png)
+

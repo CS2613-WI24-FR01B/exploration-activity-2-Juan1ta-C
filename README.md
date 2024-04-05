@@ -2,8 +2,8 @@
 
 
 ## Library
-I utilised the **numpy** library in Python 
-This is how you implement the library 
+I utilised the **numpy** library in Python    
+This is how you implement the library     
 **`import numpy`**
 
 
@@ -17,29 +17,29 @@ My program can be run from the terminal window or command line.
   
   
 ## Purpose
-My program runs different calculations on matrices such as addition, subtraction, scalar multiplication, matrix multiplication, inverse, determinant, and power. 
+My program runs different calculations on matrices such as addition, subtraction, scalar multiplication, matrix multiplication, inverse, determinant, and power.      
 It does these calculations based on matrix calculations defined in linear algebra.
 
 
 ## Sample code output
-Addition: 
+Addition:      
 ![Screenshot](Addition.png)
 
-Subtraction: 
+Subtraction:     
 ![Screenshot](Subtraction.png)
 
-Scalar: 
+Scalar:     
 ![Screenshot](Scalar.png)
 
-Multiplication: 
+Multiplication:     
 ![Screenshot](Multiplication.png)
 
-Determinant: 
+Determinant:     
 ![Screenshot](Determinant.png)
 
-Inverse: 
+Inverse:     
 ![Screenshot](Inverse.png)
 
-Power: 
+Power:    
 ![Screenshot](Power.png)
 

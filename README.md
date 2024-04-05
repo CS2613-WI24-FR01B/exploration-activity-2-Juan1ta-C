@@ -1,13 +1,13 @@
-#Exploration Activity 2
+# Exploration Activity 2
 
 
-##Library
+## Library
 I utilised the **numpy** library in Python
 This is how you implement the library
 **`import numpy`**
 
 
-##Running the program
+## Running the program
 My program can be run from the terminal window or command line. 
 
   1. Open terminal window 
@@ -16,12 +16,12 @@ My program can be run from the terminal window or command line.
   4. run **`python MatrixCalulator.py'** in terminal
   
   
-##Purpose
+## Purpose
 My program runs different calculations on matrices such as addition, subtraction, scalar multiplication, matrix multiplication, inverse, determinant, power.
 It doe sthese calculation based of matrix calculation defined in linear algebra.
 
 
-##Sample code output
+## Sample code output
 Addition: ![Screenshot](Addition.png)
 
 Subtraction: ![Screenshot](Subtraction.png)
